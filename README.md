@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -161,3 +162,6 @@ Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
 # AuthFlow-NestJS
 >>>>>>> ba1b5710217fbbf2e8bd2cbdab5b4e5c26ec12a8
 >>>>>>> 01d9fe366d5978283d51c04c101a97cc108d7350
+=======
+# NEXT_LABS
+>>>>>>> 546561b8f3fa8e5636a996f73aa94d67b2b05f44
