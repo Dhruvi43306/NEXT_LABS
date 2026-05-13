@@ -1,0 +1,27 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "mysql"
+  url = "mysql://root:password@localhost:3306/next_fetch_demo"
+}
+
+model task {
+  TaskID          Int      @id @default(autoincrement())
+  TaskTitle       String?  @db.VarChar(100)
+  TaskDescription String?  @db.Text
+  IsCompleted     Boolean?
+  
+  user_id Int?
+  users   users?  @relation(fields: [user_id], references: [user_id], onDelete: Restrict, onUpdate: Restrict)
+
+  @@index([user_id])
+}
+
+model users {
+  user_id   Int     @id @default(autoincrement())
+  user_name String  @db.VarChar(100)
+  password  String  @db.VarChar(100)
+  task      task[]
+}
