@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
@@ -165,3 +166,6 @@ Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
 =======
 # NEXT_LABS
 >>>>>>> 546561b8f3fa8e5636a996f73aa94d67b2b05f44
+=======
+# NEXT_LABS
+>>>>>>> 655a8c8f0dcf9f9c31ecc896e4cbe6cdfd7f1a2d
