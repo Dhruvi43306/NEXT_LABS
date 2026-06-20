@@ -1,265 +1,171 @@
-<div align="center">
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-# 🚀 NEXT LABS
+## Getting Started
 
-### ⚡ Master Next.js Through Interactive Labs & Real-World Projects
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Learn+Next.js+the+Modern+Way;Build+Real+Projects;Explore+Interactive+Labs;Level+Up+Your+Frontend+Skills" />
-
-<br/>
-
-![Next.js](https://img.shields.io/badge/Next.js-Latest-black?style=for-the-badge&logo=next.js)
-![React](https://img.shields.io/badge/React-Modern-blue?style=for-the-badge&logo=react)
-![TypeScript](https://img.shields.io/badge/TypeScript-Powered-blue?style=for-the-badge&logo=typescript)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-Styled-38BDF8?style=for-the-badge&logo=tailwindcss)
-![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-
-### 🌟 Interactive Learning Platform • Modern UI • Real-World Labs
-
-</div>
-
----
-
-# 🎯 What is Next Labs?
-
-Next Labs is a premium learning platform built to help developers learn and practice Next.js through interactive labs, modern UI components, and real-world development scenarios.
-
-Instead of boring tutorials, this project provides:
-
-✨ Hands-on Learning
-
-🚀 Modern Development Practices
-
-🎨 Beautiful User Interface
-
-📱 Responsive Experience
-
-⚡ Fast Performance
-
-🧩 Reusable Components
-
-💡 Industry-Level Project Structure
-
----
-
-# 🔥 Key Highlights
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎨 Modern UI
-- Beautiful Layouts
-- Premium Components
-- Clean Design System
-- Smooth User Experience
-
-</td>
-
-<td width="50%">
-
-### ⚡ High Performance
-- Optimized Rendering
-- Fast Navigation
-- SEO Friendly
-- Scalable Architecture
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 📚 Learning Focused
-- Practical Labs
-- Real Projects
-- Best Practices
-- Clean Code
-
-</td>
-
-<td width="50%">
-
-### 📱 Responsive
-- Mobile Friendly
-- Tablet Ready
-- Desktop Optimized
-- Cross Browser Support
-
-</td>
-</tr>
-</table>
-
----
-
-# 🛠️ Tech Stack
-
-| Technology | Purpose |
-|------------|----------|
-| 🚀 Next.js | React Framework |
-| ⚛️ React | UI Development |
-| 🔷 TypeScript | Type Safety |
-| 🎨 Tailwind CSS | Styling |
-| ✨ Framer Motion | Animations |
-| 🧩 ShadCN UI | Components |
-| 🎯 Lucide Icons | Icons |
-
----
-
-# 📂 Project Structure
-
-```bash
-NEXT_LABS
-│
-├── src
-│   ├── app
-│   ├── components
-│   ├── hooks
-│   ├── lib
-│   ├── styles
-│   └── assets
-│
-├── public
-├── package.json
-└── README.md
-```
-
----
-
-# 📸 Project Showcase
-
-## 🏠 Homepage
-
-> Add your homepage screenshot here
-
-```md
-![Homepage](./screenshots/homepage.png)
-```
-
----
-
-## 📚 Labs Dashboard
-
-```md
-![Labs Dashboard](./screenshots/dashboard.png)
-```
-
----
-
-## 🎨 Interactive UI
-
-```md
-![UI Preview](./screenshots/ui-preview.png)
-```
-
----
-
-# 🚀 Getting Started
-
-### Clone Repository
-
-```bash
-git clone https://github.com/Dhruvi43306/NEXT_LABS.git
-```
-
-### Install Dependencies
-
-```bash
-npm install
-```
-
-### Run Development Server
+First, run the development server:
 
 ```bash
 npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
 ```
 
-### Open Browser
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+
+This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+
+## Learn More
+
+To learn more about Next.js, take a look at the following resources:
+
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+
+## Deploy on Vercel
+
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+=======
+<<<<<<< HEAD
+<p align="center">
+  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
+</p>
+
+[circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
+[circleci-url]: https://circleci.com/gh/nestjs/nest
+
+  <p align="center">A progressive <a href="http://nodejs.org" target="_blank">Node.js</a> framework for building efficient and scalable server-side applications.</p>
+    <p align="center">
+<a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/v/@nestjs/core.svg" alt="NPM Version" /></a>
+<a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/l/@nestjs/core.svg" alt="Package License" /></a>
+<a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/dm/@nestjs/common.svg" alt="NPM Downloads" /></a>
+<a href="https://circleci.com/gh/nestjs/nest" target="_blank"><img src="https://img.shields.io/circleci/build/github/nestjs/nest/master" alt="CircleCI" /></a>
+<a href="https://discord.gg/G7Qnnhy" target="_blank"><img src="https://img.shields.io/badge/discord-online-brightgreen.svg" alt="Discord"/></a>
+<a href="https://opencollective.com/nest#backer" target="_blank"><img src="https://opencollective.com/nest/backers/badge.svg" alt="Backers on Open Collective" /></a>
+<a href="https://opencollective.com/nest#sponsor" target="_blank"><img src="https://opencollective.com/nest/sponsors/badge.svg" alt="Sponsors on Open Collective" /></a>
+  <a href="https://paypal.me/kamilmysliwiec" target="_blank"><img src="https://img.shields.io/badge/Donate-PayPal-ff3f59.svg" alt="Donate us"/></a>
+    <a href="https://opencollective.com/nest#sponsor"  target="_blank"><img src="https://img.shields.io/badge/Support%20us-Open%20Collective-41B883.svg" alt="Support us"></a>
+  <a href="https://twitter.com/nestframework" target="_blank"><img src="https://img.shields.io/twitter/follow/nestframework.svg?style=social&label=Follow" alt="Follow us on Twitter"></a>
+</p>
+  <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
+  [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
+
+## Description
+
+[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+Step into a modern authentication system crafted with powerful backend tools.<br>
+This project is not just code — it's a complete security architecture designed to handle real-world applications.<br><br>
+
+
+✨ 🌟 Features<br>
+
+- 🔐 Secure Login System  
+- 🛡️ Role-Based Access Control (RBAC)  
+- 🔑 JWT Authentication  
+- 🧂 Password Hashing (bcrypt)  
+- ⚡ Clean & Modular Architecture  
+- 📈 Highly Scalable Design <br><br><br>
+
+
+🎯 🔥 Why This Project Stands Out?
+- ✨ Clean separation of Authentication vs Authorization
+- ⚡ Uses industry-standard security practices
+- 🧠 Easy to understand & extend
+- 🛠️ Perfect for learning + production use<br><br><br>
+
+
+
+
+## Project setup
 
 ```bash
-http://localhost:3000
+$ npm install
 ```
 
----
+## Compile and run the project
 
-# 🌟 Features
+```bash
+# development
+$ npm run start
 
-✅ Modern UI Components
+# watch mode
+$ npm run start:dev
 
-✅ Interactive Learning Experience
+# production mode
+$ npm run start:prod
+```
 
-✅ Responsive Layout
+## Run tests
 
-✅ Reusable Architecture
+```bash
+# unit tests
+$ npm run test
 
-✅ Performance Optimized
+# e2e tests
+$ npm run test:e2e
 
-✅ Clean Code Structure
+# test coverage
+$ npm run test:cov
+```
 
-✅ Beginner Friendly
+## Deployment
 
-✅ Production Ready
+When you're ready to deploy your NestJS application to production, there are some key steps you can take to ensure it runs as efficiently as possible. Check out the [deployment documentation](https://docs.nestjs.com/deployment) for more information.
 
----
+If you are looking for a cloud-based platform to deploy your NestJS application, check out [Mau](https://mau.nestjs.com), our official platform for deploying NestJS applications on AWS. Mau makes deployment straightforward and fast, requiring just a few simple steps:
 
-# 📈 Learning Outcomes
+```bash
+$ npm install -g @nestjs/mau
+$ mau deploy
+```
 
-By completing these labs, developers can improve:
+With Mau, you can deploy your application in just a few clicks, allowing you to focus on building features rather than managing infrastructure.
 
-- Next.js Development
-- React Fundamentals
-- TypeScript Skills
-- Component Architecture
-- Responsive Design
-- State Management
-- API Integration
-- UI/UX Development
+## Resources
 
----
+Check out a few resources that may come in handy when working with NestJS:
 
-# 🔮 Future Roadmap
+- Visit the [NestJS Documentation](https://docs.nestjs.com) to learn more about the framework.
+- For questions and support, please visit our [Discord channel](https://discord.gg/G7Qnnhy).
+- To dive deeper and get more hands-on experience, check out our official video [courses](https://courses.nestjs.com/).
+- Deploy your application to AWS with the help of [NestJS Mau](https://mau.nestjs.com) in just a few clicks.
+- Visualize your application graph and interact with the NestJS application in real-time using [NestJS Devtools](https://devtools.nestjs.com).
+- Need help with your project (part-time to full-time)? Check out our official [enterprise support](https://enterprise.nestjs.com).
+- To stay in the loop and get updates, follow us on [X](https://x.com/nestframework) and [LinkedIn](https://linkedin.com/company/nestjs).
+- Looking for a job, or have a job to offer? Check out our official [Jobs board](https://jobs.nestjs.com).
 
-- 🔐 Authentication
-- 🌙 Dark Mode
-- 🤖 AI Assistant
-- 🏆 Achievement System
-- 📊 Progress Tracking
-- 📜 Completion Certificates
-- 🔔 Notifications
-- 🌍 Multi-language Support
+## Support
 
----
+Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
 
-# 👨‍💻 Author
+## Stay in touch
 
-## Dhruvi Savaliya
+- Author - [Kamil Myśliwiec](https://twitter.com/kammysliwiec)
+- Website - [https://nestjs.com](https://nestjs.com/)
+- Twitter - [@nestframework](https://twitter.com/nestframework)
 
-Passionate Full Stack Developer focused on building modern web applications with clean architecture and beautiful user experiences.
+## License
 
-### Connect With Me
-
-💻 GitHub: https://github.com/Dhruvi43306
-
----
-
-<div align="center">
-
-# ⭐ Show Your Support
-
-If you like this project:
-
-⭐ Star the Repository
-
-🍴 Fork the Project
-
-📢 Share with Friends
-
-💖 Support Open Source
-
----
-
-### Made with ❤️ using Next.js
-
-🚀 Learn • Build • Innovate
-
-</div>
+Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
+=======
+# AuthFlow-NestJS
+>>>>>>> ba1b5710217fbbf2e8bd2cbdab5b4e5c26ec12a8
+>>>>>>> 01d9fe366d5978283d51c04c101a97cc108d7350
+=======
+# NEXT_LABS
+>>>>>>> 546561b8f3fa8e5636a996f73aa94d67b2b05f44
+=======
+# NEXT_LABS
+>>>>>>> 655a8c8f0dcf9f9c31ecc896e4cbe6cdfd7f1a2d
